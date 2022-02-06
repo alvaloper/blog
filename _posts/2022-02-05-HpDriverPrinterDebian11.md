@@ -23,8 +23,6 @@ Once these steps are done, we will have the application running in the backgroun
 
 Congratulations now enjoy your HP printer.
 
-Thank you.
-
 Contributions:
 
 + Buy me a Coffee [Enter Here](https://www.buymeacoffee.com/alvaloper)
