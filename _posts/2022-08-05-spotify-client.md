@@ -7,17 +7,17 @@ You can do it in just 8 minutes. Let’s do it:
 
 Run your console and type the following as root superuser:
 
-First step: sudo apt install curl libcanberra-gtk-module -y
+**First step:** sudo apt install curl libcanberra-gtk-module -y
 
-Second step: curl -sS https://download.spotify.com/debian/pubkey_0D811D58.gpg | sudo apt-key add -
+**Second step:** curl -sS https://download.spotify.com/debian/pubkey_0D811D58.gpg | sudo apt-key add -
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 5E3C45D7B312C643
 
-Third step: echo deb http://repository.spotify.com stable non-free | sudo tee /etc/apt/sources.list.d/spotify.list
+**Third step:** echo deb http://repository.spotify.com stable non-free | sudo tee /etc/apt/sources.list.d/spotify.list
 deb http://repository.spotify.com stable non-free
 
-Fourth step: sudo apt update
+**Fourth step:** sudo apt update
 
-Fifth step: sudo apt install spotify-client
+**Fifth step:** sudo apt install spotify-client
 
 That's all enjoy it! Thanks for your visit!
 
