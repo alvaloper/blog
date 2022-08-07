@@ -29,11 +29,9 @@ hp-setup
 
 Once these steps are done, we will have the application running in the background and the icon appears in the taskbar. Congratulations now enjoy your HP printer.
 
-{% include embed.html url="https://www.youtube.com/watch?v=_vQ5hBuEtEY" %}
+{% include embed.html url="https://www.youtube.com/embed/_vQ5hBuEtEY" %}
 
-Contributions:
+*Contributions:*
 
 + Buy me a Coffee [Enter Here](https://www.buymeacoffee.com/alvaloper)
 + Paypal [Enter Here](https://www.paypal.com/paypalme/ingespinozalj)
-
-Thank you for your visit! 
