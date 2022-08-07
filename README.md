@@ -2,6 +2,8 @@
 title: "About"
 permalink: "/about/"
 layout: page
+redirect_to:
+  - http://www.google.com
 ---
 
 ## Installation
