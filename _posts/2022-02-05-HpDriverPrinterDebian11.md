@@ -8,25 +8,26 @@ The HPLIP (HP Linux Imaging and Printlng) project—initiated and led by HP Inc.
 
 You can do it in just 5 minutes. Let's do it:
 
-Make sure to log in as root user, and install the following:
+**Make sure to log in as root user, and install the following**
 
-1 --> sudo apt-get install hplip
+```code
+sudo apt-get install hplip
+```
 
 Then, to make everything easier, we install the graphical environment. (GUI)
 
-2 --> sudo apt-get install hplip-gui
+```code
+sudo apt-get install hplip-gui
+``` 
 
 Finally, we start the software configuration:
 
-3 --> hp-setup
-
-Once these steps are done, we will have the application running in the background and the icon appears in the taskbar.
-
-Congratulations now enjoy your HP printer.
-
 ```code
-sudo apt-get install hplip-gui
-```
+hp-setup
+``` 
+
+Once these steps are done, we will have the application running in the background and the icon appears in the taskbar. Congratulations now enjoy your HP printer.
+
 
 Contributions:
 
