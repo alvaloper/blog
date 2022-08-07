@@ -3,7 +3,8 @@ layout: post
 title: Installing HP Printer Drivers on Debian 11 Bullseye in just 5 minutes!
 ---
 
-The HPLIP (HP Linux Imaging and Printlng) project—initiated and led by HP Inc. (HP)—aims to ease Linux systems' ability to interact with HP's inkjet and laser printers with full printing, scanning, and faxing support. As of 2021 the supplied printer-drivers support a total of 3,088 HP printer models. (https://en.wikipedia.org/wiki/HP_Linux_Imaging_and_Printing).
+The HPLIP (HP Linux Imaging and Printlng) project—initiated and led by HP Inc. (HP)—aims to ease Linux systems' ability to interact with HP's inkjet and laser printers with full printing, scanning, and faxing support. As of 2021 the supplied printer-drivers support a total of 3,088 HP printer models. 
+>(https://en.wikipedia.org/wiki/HP_Linux_Imaging_and_Printing).
 
 
 You can do it in just 5 minutes. Let's do it:
