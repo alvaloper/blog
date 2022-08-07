@@ -5,6 +5,7 @@ title: Happy Twosday (22/2/22) 2 You!!
 
 ![_config.yml]({{ site.baseurl }}/images/twosday.jpg)
 
+
 The deuces are wild today as one of the grandest palindromes of 2022 arrives on Tuesday, unofficially known as "Twosday."
 
 Feb. 22, 2022, is written out numerically is 2/22/22. Not only is it a palindrome because it reads the same forward and backward, but what makes it special is the date has all twos. It will also be the same no matter what part of the world you're in, regardless of whether your country uses the day-month-year or year-month-day format.
@@ -19,9 +20,8 @@ Article taken from: [Click Here](https://www.usatoday.com/story/news/nation/2022
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub. -->
 
-Contributions:
+**Thank you for your visit!**
+*Contributions:*
 
 + Buy me a Coffee [Enter Here](https://www.buymeacoffee.com/alvaloper)
 + Paypal [Enter Here](https://www.paypal.com/paypalme/ingespinozalj)
-
-Thank you for your visit! 

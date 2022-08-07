@@ -31,6 +31,7 @@ Once these steps are done, we will have the application running in the backgroun
 
 {% include embed.html url="https://www.youtube.com/embed/_vQ5hBuEtEY" %}
 
+**Thank you for your visit!**
 *Contributions:*
 
 + Buy me a Coffee [Enter Here](https://www.buymeacoffee.com/alvaloper)
