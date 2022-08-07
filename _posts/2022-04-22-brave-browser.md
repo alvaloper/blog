@@ -3,7 +3,7 @@ layout: post
 title: How to Install Brave Browser on Debian 11 Bullseye
 ---
 
->Brave is a free and open-source web browser developed by Brave Software, Inc. based on the Chromium web browser. Brave is a privacy-focused browser, which automatically blocks online advertisements and website trackers in its default settings. [Wikipedia](https://en.wikipedia.org/wiki/Brave_(web_browser).
+>Brave is a free and open-source web browser developed by Brave Software, Inc. based on the Chromium web browser. Brave is a privacy-focused browser, which automatically blocks online advertisements and website trackers in its default settings. [Wikipedia](https://en.wikipedia.org/wiki/Brave_(web_browser)).
 
 
 You can do it in just 5 minutes. Let’s do it:
