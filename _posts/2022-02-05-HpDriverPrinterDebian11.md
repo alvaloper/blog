@@ -24,22 +24,8 @@ Once these steps are done, we will have the application running in the backgroun
 
 Congratulations now enjoy your HP printer.
 
-{% highlight c %}
-
-static void asyncEnabled(Dict* args, void* vAdmin, String* txid, struct Allocator* requestAlloc)
-{
-    struct Admin* admin = Identity_check((struct Admin*) vAdmin);
-    int64_t enabled = admin->asyncEnabled;
-    Dict d = Dict_CONST(String_CONST("asyncEnabled"), Int_OBJ(enabled), NULL);
-    Admin_sendMessage(&d, txid, admin);
-}
-
-{% endhighlight %}
-
-```javascript
-function foo () {
-    return "bar";
-}
+```code
+sudo apt-get install hplip-gui
 ```
 
 Contributions:
