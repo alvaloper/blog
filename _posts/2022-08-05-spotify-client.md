@@ -6,6 +6,7 @@ title: How to Install Spotify Client on Debian 11 Bullseye
 >It is one of the largest music streaming service providers, with over 433 million monthly active users, including 188 million paying subscribers, as of June 2022. 
 [Wikipedia](https://en.wikipedia.org/wiki/Spotify).
 
+
 You can do it in just 8 minutes. Let’s do it:
 
 **Run your console and type the following as root superuser:**
