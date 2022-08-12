@@ -39,7 +39,7 @@ apt install google-chrome-stable
 
 That's all enjoy it!
 
-{% include embed.html url="https://www.youtube.com/embed/7oYXMFs_vZo" %}
+{% include embed.html url="https://www.youtube.com/embed/XX1mxpkL7b8" %}
 
 **Thank you for your visit!**
 *Contributions:*
