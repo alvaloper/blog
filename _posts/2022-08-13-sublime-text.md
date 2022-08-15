@@ -38,7 +38,7 @@ sudo apt install sublime-text
 
 That's all enjoy it!
 
-{% include embed.html url="https://www.youtube.com/embed/XX1mxpkL7b8" %}
+{% include embed.html url="https://www.youtube.com/embed/Q9rNrJHAUMk" %}
 
 **Thank you for your visit!**
 *Contributions:*
