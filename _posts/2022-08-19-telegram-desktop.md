@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to install Visual Studio Code (VS Code) on Debian 11
+title: How to install Telegram Desktop on Debian 11
 ---
 
 >Telegram is a globally accessible freemium, cross-platform, cloud-based instant messaging (IM) service. The service also provides optional end-to-end encrypted chats and video calling.  
