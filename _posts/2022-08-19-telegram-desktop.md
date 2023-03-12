@@ -27,7 +27,7 @@ sudo apt install telegram-desktop
 
 That's all enjoy it!
 
-{% include embed.html url="https://www.youtube.com/watch?v=nqDV9KfpDz8" %}
+{% include embed.html url="https://www.youtube.com/embed/nqDV9KfpDz8" %}
 
 **Thank you for your visit!**
 *Contributions:*
