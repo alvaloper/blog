@@ -45,7 +45,7 @@ sudo apt remove code
 
 That's all enjoy it!
 
- {% include embed.html url="https://www.youtube.com/watch?v=kb68UMw0-Cs" %} 
+{% include embed.html url="https://www.youtube.com/watch?v=kb68UMw0-Cs" %} 
 
 **Thank you for your visit!**
 *Contributions:*
