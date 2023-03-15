@@ -23,7 +23,7 @@ Run the following command to confirm that the card has been detected correctly
 dmesg | tail
 ```
 
-To add your Debian 111 login user to the dialout group, run the following command:
+To add your Debian 11 login user to the dialout group, run the following command:
 
 ```code
 sudo usermod -aG dialout $(whoami)
