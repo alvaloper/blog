@@ -7,7 +7,7 @@ title: How to install Arduino IDE on Debian 11
 [Debian Wiki](https://wiki.debian.org/Arduino).
 
 
-Let’s do it:
+Let’s do it:>
 
 **Run your console and type the following as root superuser:**
 
